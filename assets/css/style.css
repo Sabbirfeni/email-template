@@ -55,3 +55,7 @@ p {
     font-size: clamp(1.3rem, 3.4vw, 1.5rem);
     margin: 30px 0px;
 }
+
+.workMap {
+    background-color: red;
+}
